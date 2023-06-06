@@ -4,7 +4,7 @@
 
 - Lakukan join table mahasiswa dan dosen
 
-(L1.png)
+![foto1](L1.png)
 
 - Lakukan join table matakuliah dan dosen
 
